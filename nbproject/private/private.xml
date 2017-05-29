@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/web/Index.jsp</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/src/java/org/attendance/service/LoginService.java</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/web/Home.jsp</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/src/java/org/attendance/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/src/java/org/attendance/dbc/DBConnection.java</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/src/java/org/attendance/dao/LoginDao.java</file>
+            <file>file:/C:/Users/vikrant/Documents/Attendance/src/java/org/atendance/model/LoginModel.java</file>
+        </group>
+    </open-files>
+</project-private>
